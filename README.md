@@ -1,6 +1,6 @@
 # Caffe Convertor
 
-Convert a caffe model to a C struct array.
+Convert a caffe model to a C struct array. Originally hosted on bitbucket: https://bitbucket.org/xyz0/vcnn-caffe-convertor 
 
 
 ## Install
